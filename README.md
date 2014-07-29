@@ -13,12 +13,12 @@ http://papics.eu/?p=2221
 
 http://papics.eu/?p=2247
 
-Tested on:
-
-Current conda install:
+Tested on full Anaconda (https://store.continuum.io/cshop/anaconda/) install:
 
              platform : osx-64
         conda version : 3.5.5
        python version : 2.7.8.final.0
        
-Necessary extra package: >conda install -c https://conda.binstar.org/piyanatk pyephem
+Necessary extra package:
+
+       conda install -c https://conda.binstar.org/piyanatk pyephem
