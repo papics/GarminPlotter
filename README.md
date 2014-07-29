@@ -8,5 +8,17 @@ Will only work as intended if you have speed, cadence, elevation, and heart rate
 More information in my blog at:
 
 http://papics.eu/?p=2142
+
 http://papics.eu/?p=2221
+
 http://papics.eu/?p=2247
+
+Tested on:
+
+Current conda install:
+
+             platform : osx-64
+        conda version : 3.5.5
+       python version : 2.7.8.final.0
+       
+Necessary extra package: >conda install -c https://conda.binstar.org/piyanatk pyephem
